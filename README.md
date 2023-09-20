@@ -10,9 +10,5 @@ Each time a patient visits, the doctor will follow 2 steps
 Register the patient in the app(using phone number , if the patient 
 already exists, just return the the patient info in the API)
 
-[Live](After the live this project paste link here)
 
-[Documentation](docs of that hosted platform)
-
-# Routes:
 
